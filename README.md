@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi, I’m Patricio Núñez Soto. 👋
 
-<!--
-**HummerFire/HummerFire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a passionate Computer Engineer 💻 with over 14 years of hands-on experience in systems, networks, tech support, automation, development, and cybersecurity. 🔧🛡️
 
-Here are some ideas to get you started:
+I love diving into full stack development, homelab projects, home and building automation, and contributing to open source. 🚀 I approach my work fueled by curiosity and a bit of controlled chaos. ⚡️🤓
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+By nature, I’m an outlier—I don’t just accept things as they are. I ask questions, challenge the norm, and redesign processes—not to break things, but to understand and build better solutions. 🔍⚙️✨
+
+Right now, I’m exploring:
+• Decentralized infrastructure and crypto mining ⛓️💰
+• Advanced home automation 🏠🤖
+• Risk dashboards and clean, simple technical interfaces 📊🖥️
+• Learning through video games and simulations 🎮🧠
+
+I’m a Linux enthusiast 🐧, Git user 🔧, and a tech humanist. Based in Chile 🇨🇱 but ready to work wherever I’m needed. 🌎
+
+Feel free to check out my work on GitHub! 🔗✨
