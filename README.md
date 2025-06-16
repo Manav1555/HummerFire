@@ -19,9 +19,9 @@ Hi, I'm Patricio Núñez Soto
 🐧 Linux fan. Git lover. Technical humanist.
 📍 From Chile, to wherever needed.
 
-🔗 GitHub | LinkedIn | Workana
 
-
-    Systems don't evolve because of those who obey them, but because of those who challenge them. 
+    "Systems don't evolve because of those who obey them, but because of those who challenge them. 
     An outlier, far from being a threat, is a seed. Of disruption, yes. But also of redesign. Of improvement. Of resilience. 
-    <b>And perhaps, of awareness.</b>
+    And perhaps, of awareness."
+
+![Patricio Nuñez Soto](https://github.com/user-attachments/assets/90cc1dd1-7705-4019-8d15-356765c1db0d)
