@@ -20,3 +20,6 @@ Hi, I'm Patricio Núñez Soto
 📍 From Chile, to wherever needed.
 
 🔗 GitHub | LinkedIn | Workana
+
+
+    Systems don't evolve because of those who obey them, but because of those who challenge them. An outlier, far from being a threat, is a seed. Of disruption, yes. But also of redesign. Of improvement. Of resilience. And perhaps, of awareness.
