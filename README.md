@@ -1,4 +1,4 @@
-Hi, I'm Patricio Núñez Soto
+**Hi, I'm Patricio Núñez Soto**
 
 🚀 Computer Engineer with 14+ years of experience in systems, networking, tech support, automation, development, and cybersecurity.
 
