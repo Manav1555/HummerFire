@@ -1,17 +1,22 @@
-Hi, I’m Patricio Núñez Soto. 👋
+Hi, I'm Patricio Núñez Soto
 
-I’m a passionate Computer Engineer 💻 with over 14 years of hands-on experience in systems, networks, tech support, automation, development, and cybersecurity. 🔧🛡️
+🚀 Computer Engineer with 14+ years of experience in systems, networking, tech support, automation, development, and cybersecurity.
 
-I love diving into full stack development, homelab projects, home and building automation, and contributing to open source. 🚀 I approach my work fueled by curiosity and a bit of controlled chaos. ⚡️🤓
+💻 Passionate about full-stack development, homelab solutions, home/building automation, and open source projects. I work from curiosity and controlled chaos.
 
-By nature, I’m an outlier—I don’t just accept things as they are. I ask questions, challenge the norm, and redesign processes—not to break things, but to understand and build better solutions. 🔍⚙️✨
+🧠 Natural outlier: I don’t settle for what’s given. I question, redesign, disrupt… not to break, but to understand and build better.
 
-Right now, I’m exploring:
-• Decentralized infrastructure and crypto mining ⛓️💰
-• Advanced home automation 🏠🤖
-• Risk dashboards and clean, simple technical interfaces 📊🖥️
-• Learning through video games and simulations 🎮🧠
+🛠️ Currently exploring:
 
-I’m a Linux enthusiast 🐧, Git user 🔧, and a tech humanist. Based in Chile 🇨🇱 but ready to work wherever I’m needed. 🌎
+    Decentralized infrastructure & crypto mining
 
-Feel free to check out my work on GitHub! 🔗✨
+    Advanced home automation
+
+    Risk dashboards & simple technical interfaces
+
+    Stealth education through games and simulations
+
+🐧 Linux fan. Git lover. Technical humanist.
+📍 From Chile, to wherever needed.
+
+🔗 GitHub | LinkedIn | Workana
